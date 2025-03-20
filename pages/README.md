@@ -10,9 +10,9 @@ Adult (>9 weeks) male C57BL/6J mice (n = 8), each weighing >23 g at surgery.
 
 ### Recording Protocol
 
-• Mice were acclimated for at least 7 days before data collection.
-• Wireless transmitters were activated at ZT23 and turned off at ZT24 the following day.
-• EEG and EMG recordings were collected continuously for 25 hours and analyzed using Ponemah software.
+- Mice were acclimated for at least 7 days before data collection.
+- Wireless transmitters were activated at ZT23 and turned off at ZT24 the following day.
+- EEG and EMG recordings were collected continuously for 25 hours and analyzed using Ponemah software.
 
 ### Experimental Design
 
