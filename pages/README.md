@@ -29,8 +29,6 @@ Adult (>9 weeks) male C57BL/6J mice (n = 8), each weighing >23 g at surgery.
 
 This dataset includes EEG and EMG recordings, locomotor activity (LMA), and subcutaneous body temperature (Tsc) collected from adult male C57BL/6J mice. The data were recorded following experimental protocols designed to assess the effects of TAAR1 agonists and dopamine receptor antagonists on sleep-wake states.
 
-### Data Contents
-
 - [/edf](:files_path:/original/edf): EDF files exported from NeuroscoreTM CNS Software, containing 1 EEG channel, 1 EMG channel, body temperature (Tsc), signal strength, and gross motor activity (LMA). EEG and EMG data were sampled at 500 Hz, while signal strength and Tsc were recorded at 10 Hz, and activity at 1 Hz using Ponemah software (version 5.20; DSI). The DSI F20-EET wireless transmitters allowed EEG power analysis within the 0.5–60 Hz range.
 - [/fft](:files_path:/original/fft): CSV files exported by Somnivore (version 1.1.7.0; Somnivore, Ltd. Pty.), containing epoched (10-second epochs) data, including manually scored sleep states and power spectral density (PSD) analysis from fast Fourier transform (FFT) across 985 frequency bins (0–60.059 Hz).
 
